@@ -1,0 +1,7 @@
+moviepy==1.0.3
+openai==1.14.1
+openai-whisper==20231117
+mutagen==1.47.0
+easing-functions==1.0.4
+python-dotenv
+ffmpeg==1.4
