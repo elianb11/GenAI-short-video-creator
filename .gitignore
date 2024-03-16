@@ -1,0 +1,7 @@
+.env
+.idea
+.ipynb_checkpoints
+/tmp
+/local
+/output_videos
+test.py
